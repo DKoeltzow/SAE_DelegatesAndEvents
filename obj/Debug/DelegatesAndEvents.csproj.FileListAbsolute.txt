@@ -1,0 +1,21 @@
+D:\SAE\Unterrichte\OOP\Delegates und Events\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+D:\SAE\Unterrichte\OOP\Delegates und Events\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+D:\SAE\Unterrichte\OOP\Delegates und Events\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+D:\SAE\Unterrichte\OOP\Delegates und Events\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojResolveAssemblyReference.cache
+D:\SAE\Unterrichte\OOP\Delegates und Events\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+D:\SAE\Unterrichte\OOP\Delegates und Events\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
+E:\Programming\C#\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+E:\Programming\C#\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+E:\Programming\C#\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
+E:\Programming\C#\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+E:\Programming\C#\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+E:\Programming\C#\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojResolveAssemblyReference.cache
+G:\c#\C#\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+G:\c#\C#\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+G:\c#\C#\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
+G:\c#\C#\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+G:\c#\C#\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+G:\c#\C#\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojResolveAssemblyReference.cache
+J:\USB\c#\C#\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+J:\USB\c#\C#\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+J:\USB\c#\C#\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
